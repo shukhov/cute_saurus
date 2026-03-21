@@ -3,8 +3,8 @@ package selector
 import (
 	"context"
 	"fmt"
-	"github.com/shukhov/ytapi/client"
-	"github.com/shukhov/ytapi/tools/table"
+	"github.com/shukhov/cute_saurus/client"
+	"github.com/shukhov/cute_saurus/tools/table"
 	"go.ytsaurus.tech/yt/go/yt"
 	"log"
 	"math/rand/v2"
