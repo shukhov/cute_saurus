@@ -1,4 +1,4 @@
-module github.com/shukhov/ytapi
+module github.com/shukhov/cute_saurus
 
 go 1.24.2
 
