@@ -2,7 +2,7 @@ package table
 
 import (
 	"context"
-	"github.com/shukhov/ytapi/client"
+	"github.com/shukhov/cute_saurus/client"
 	"go.ytsaurus.tech/yt/go/ypath"
 )
 

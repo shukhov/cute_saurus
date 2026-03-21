@@ -3,8 +3,8 @@ package table
 import (
 	"context"
 	"fmt"
-	"github.com/shukhov/ytapi/client"
-	"github.com/shukhov/ytapi/tools/mem_storage"
+	"github.com/shukhov/cute_saurus/client"
+	"github.com/shukhov/cute_saurus/tools/mem_storage"
 	"go.ytsaurus.tech/library/go/ptr"
 	"go.ytsaurus.tech/yt/go/schema"
 	"go.ytsaurus.tech/yt/go/ypath"
