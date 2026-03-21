@@ -5,8 +5,8 @@ go 1.24.2
 require (
 	github.com/klauspost/compress v1.18.0
 	github.com/siddontang/go-log v0.0.0-20190221022429-1e957dd83bed
+	go.ytsaurus.tech/library/go/ptr v0.0.2
 	go.ytsaurus.tech/yt/go v0.0.32
-	golang.org/x/exp v0.0.0-20250305212735-054e65f0b394
 )
 
 require (
@@ -27,10 +27,10 @@ require (
 	go.ytsaurus.tech/library/go/core/buildinfo v0.0.0-20250809130132-fa050e73ac17 // indirect
 	go.ytsaurus.tech/library/go/core/log v0.0.4 // indirect
 	go.ytsaurus.tech/library/go/core/xerrors v0.0.4 // indirect
-	go.ytsaurus.tech/library/go/ptr v0.0.2 // indirect
 	go.ytsaurus.tech/library/go/x/xreflect v0.0.3 // indirect
 	go.ytsaurus.tech/library/go/x/xruntime v0.0.4 // indirect
 	golang.org/x/crypto v0.41.0 // indirect
+	golang.org/x/exp v0.0.0-20250305212735-054e65f0b394 // indirect
 	golang.org/x/sys v0.35.0 // indirect
 	golang.org/x/xerrors v0.0.0-20240903120638-7835f813f4da // indirect
 	google.golang.org/protobuf v1.36.6 // indirect
