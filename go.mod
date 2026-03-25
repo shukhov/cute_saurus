@@ -1,6 +1,6 @@
 module github.com/shukhov/cute_saurus
 
-go 1.24.2
+go 1.25.2
 
 require (
 	github.com/klauspost/compress v1.18.0
