@@ -45,7 +45,3 @@ func GetTmpDir() string {
 	}
 	return "//tmp"
 }
-
-type Row = map[string]interface{}
-
-type RowJson = []byte
